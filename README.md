@@ -2,7 +2,7 @@ Graphical Rebased's stats with Python + Postgresql + Grafana
 ============================================================
 
 Python script that gets *realtime* stats data from [Rebased(Pleroma fork)](https://gitlab.com/soapbox-pub/rebased)'s DB.
-Thist  script is based on work by FloatingGhost on GitHub (https://github.com/FloatingGhost/pleroma-stats)
+Thist  script is based on work by FloatingGhost (https://github.com/FloatingGhost/pleroma-stats)
 
 ### Dependencies
 
